@@ -1,0 +1,10 @@
+* trivial-openstack
+
+A simple OpenStack REST client/library implemented in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zodmaner/trivial-openstack.git   |
+| commit  | d0903b8  |
+| systems | trivial-openstack |
+|---------+-------------------------------------------|
+
